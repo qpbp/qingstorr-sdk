@@ -1,5 +1,5 @@
 {
-  "name": "qingstor-sdk",
+  "name": "qingstorr-sdk",
   "version": "1.0.0",
   "description": "Library Description",
   "main": "lib/index.js",
